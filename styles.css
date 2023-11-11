@@ -60,6 +60,14 @@ border:solid;
 border-color: aliceblue;
 }
 
+iframe{margin:50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border:solid;
+border-color: aliceblue;
+}
+
 audio{display: block;
         margin-left: auto;
          margin-right: auto;
